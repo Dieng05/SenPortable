@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314392144821",
+    "project_id": "senportable-defa0",
+    "storage_bucket": "senportable-defa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314392144821:android:0146c285f8b55f6d36c7fc",
+        "android_client_info": {
+          "package_name": "com.example.senportable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314392144821-2btk5fba9kkb8da3s63in69np0jr6fe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhlmxl9Qliji9Rs8kG9Lo-97qJU7I8gok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314392144821-2btk5fba9kkb8da3s63in69np0jr6fe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
